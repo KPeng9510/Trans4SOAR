@@ -16,3 +16,5 @@ The dataloaders can be found in the dataloader folder, before the running of the
  export DATASET_FOLDER="$(pwd)/data"
  Then, python train_original.py
  If you are using Trans4SOAR model please make sure you use one gpu for training.
+
+
