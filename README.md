@@ -18,7 +18,7 @@ The dataloaders can be found in the dataloader folder, before the running of the
  If you are using Trans4SOAR model please make sure you use one gpu for training.
 
 
-## Dataset download link (Occluded NTU120)
+## Dataset download link (RE Occluded NTU120)
 
 https://drive.google.com/drive/folders/1E6O9S5Z-ZWTg6iHqZnTM-o-oX9Ica9Bk?usp=share_link
 
